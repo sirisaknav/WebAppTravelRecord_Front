@@ -1,0 +1,10 @@
+{
+  "name": "webapp",
+  "description": "TravelRecordWebApp",
+  "main": "Starter.js",
+  "authors": [
+    "sirisaknav@gmailcom"
+  ],
+  "license": "ISC",
+  "homepage": "app"
+}
