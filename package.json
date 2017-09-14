@@ -20,8 +20,8 @@
     "url": "https://github.com/sirisaknav/WebAppTravelRecord_Front/issues"
   },
   "homepage": "https://github.com/sirisaknav/WebAppTravelRecord_Front#readme",
-  "devDependencies": {
-    "bower": "^1.8.0",
+  "dependencies": {
+    "bower": "^1.8.2",
     "http-server": "^0.10.0"
   }
 }
